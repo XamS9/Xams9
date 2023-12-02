@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focused on **getting improvements with testing tools**
 
-- 📫 How to reach me **samuelgomez0618@hotmail.com**
+- 📫 Get in touch via **samuelgomez0618@hotmail.com**
 
 - 🎯 My goal is to learn enough to craft tools that has a positive impact on people's productivity.
 
