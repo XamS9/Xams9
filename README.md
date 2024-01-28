@@ -7,7 +7,7 @@
 
 - 🎯 My goal is to learn enough to craft tools that has a positive impact on people's productivity.
 
-- 📄 Know about my experiences here: [CV](https://docs.google.com/document/d/1MLuXXAoy1YHUgs0kY1SDeoqX5b_-OJE63NOQ-zYqI4I/edit?usp=sharing)
+- 📄 Know about my experiences here: [CV](https://docs.google.com/document/d/1tpD7P368g6wMWc8_FfoGRx6uI0rm6FDw4Qj3ERFYDho/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
